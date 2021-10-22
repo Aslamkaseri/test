@@ -3,3 +3,4 @@ This is a test file.Line by master
 =======
 This is a test file.line by  bro2
 >>>>>>> bro2
+line by master
