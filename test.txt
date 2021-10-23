@@ -19,4 +19,8 @@ this is a stast scenario scene 333line added again
 this is stashed
 gtgtgt
 again
+<<<<<<< Updated upstream
 this is an test
+=======
+this is stashed now
+>>>>>>> Stashed changes
