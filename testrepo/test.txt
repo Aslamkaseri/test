@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+This is a test file.Line by master
+=======
+This is a test file.line by  bro2
+<<<<<<< HEAD
+>>>>>>> bro2
+line by master
+=======
+
