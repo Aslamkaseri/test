@@ -7,3 +7,5 @@ This is a test file.line by  bro2
 line by master
 =======
 
+new line added
+this is a remote line.
